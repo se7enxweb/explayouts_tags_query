@@ -13,7 +13,7 @@ class explayouts_tags_queryInfo
 {
     public static function info()
     {
-        return array( 'Name' => "explayouts_tags_query",
+        return array( 'Name' => "Exponential Layouts Tags Query",
                       'Version' => "1.0.1",
                       'Copyright' => "Copyright (C) 1998 - 2026 7x. All rights reserved.",
                       'License' => "GNU General Public License v2.0 (or any later version)",
