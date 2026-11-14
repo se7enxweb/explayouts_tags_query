@@ -14,7 +14,7 @@ class explayouts_tags_queryInfo
     public static function info()
     {
         return array( 'Name' => "Exponential Layouts Tags Query",
-                      'Version' => "1.0.5",
+                      'Version' => "1.0.6",
                       'Copyright' => "Copyright (C) 1998 - 2026 Exponential Foundation and 7x. All rights reserved.",
                       'License' => "GNU General Public License v2.0 (or any later version)",
                       'info_url' => "https://github.com/se7enxweb/explayouts_tags_query" );
