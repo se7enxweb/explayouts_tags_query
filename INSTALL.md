@@ -3,7 +3,7 @@
 ## Requirements
 
 - Exponential Legacy / Exponential 6
-- PHP 8.1, 8.2, 8.3 or 8.4
+- PHP 8.0 or higher (8.0 to 8.5)
 
 ## Dependencies
 

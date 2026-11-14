@@ -137,7 +137,7 @@ Exponential version
 - Make sure you use Exponential 6 / Exponential Legacy.
 
 PHP version
-- Make sure you have PHP 8.1, 8.2, 8.3 or 8.4.
+- Make sure you have PHP 8.0 or higher (8.0 to 8.5).
 
 Extension dependencies
 - `explayouts_content_browser` — the query returns
